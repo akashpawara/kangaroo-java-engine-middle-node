@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4db874f4-6618-46c6-92c3-193aadb7bbfe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XAPa4MxkN6isKsjnpB6MreIqbp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4db874f4-6618-46c6-92c3-193aadb7bbfe" name="Default Changelist" comment="" />
+      <created>1580485985731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580485985731</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="442" y="238" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1580486243797">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="442" y="238" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.732@0.0.1366.732" timestamp="1580486243797" />
+    <state x="538" y="258" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580486301539">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="538" y="258" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.732@0.0.1366.732" timestamp="1580486301539" />
+    <state x="471" y="110" key="FileChooserDialogImpl" timestamp="1580486239204">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="471" y="110" key="FileChooserDialogImpl/0.0.1366.732@0.0.1366.732" timestamp="1580486239204" />
+    <state x="382" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1580486266969">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="382" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.732@0.0.1366.732" timestamp="1580486266969" />
+  </component>
+</project>
